@@ -1,0 +1,42 @@
+body{
+  background-color: #80d4ea;
+}
+#clock{
+    height: 60px;
+    width: 800px;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    padding-top: 70px; */
+    font-family: courier, monospace;
+    text-align: center;
+    color: black;
+    font-size: 20vh;
+}
+#quote{
+  height: 30px;
+  width: 800px;
+  margin: auto;
+  position: absolute;
+  top: 2; left: 0; bottom: 3; right: 0;
+  padding-top: 150px; */
+  font-family: courier, monospace;
+  text-align: center;
+  color: black;
+  font-size: 5vh;
+}
+/* #button{
+
+/* vw __ of the width of the page */
+  /* width: 16vw; */
+  /* margin: 20vw;
+  position: fixed;
+  top: 20vw; left:20vw; */
+  /* top: 80%; left: 45%; bottom: 0; right: 0; */
+  /* padding-right: 300px;
+  padding-top: 500px; */
+  /* font-family: courier, monospace;
+  text-align: center;
+  color: black;
+  font-size: 1vh; */
+} */
